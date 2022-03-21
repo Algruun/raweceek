@@ -6,10 +6,6 @@ authors = ["Algruun <typa.blade@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-google-api-python-client = "^2.41.0"
-google-auth-httplib2 = "^0.1.0"
-google-auth-oauthlib = "^0.5.1"
-requests = "^2.27.1"
 icalevents = "^0.1.25"
 httpx = "^0.22.0"
 
